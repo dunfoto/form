@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import DateInput from "@/component/DateInput";
 import DateRangeComponent from "@/component/DateRange";
 import Input from "@/component/Input";
